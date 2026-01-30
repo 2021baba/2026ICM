@@ -1,0 +1,336 @@
+﻿season,week,scheme,n_active,n_eliminated,feasible,detail
+1,1,rank,6,0,True,no_elim_uniform
+1,2,rank,6,1,True,feasible=500 trials=2165 alpha_end=1.0
+1,3,rank,5,1,True,feasible=500 trials=837 alpha_end=1.0
+1,4,rank,4,1,True,feasible=500 trials=2367 alpha_end=1.0
+1,5,rank,3,1,True,feasible=500 trials=599 alpha_end=1.0
+1,6,rank,2,0,True,no_elim_uniform
+2,1,rank,10,1,True,feasible=500 trials=1441 alpha_end=1.0
+2,2,rank,9,1,True,feasible=500 trials=1479 alpha_end=1.0
+2,3,rank,8,1,True,feasible=500 trials=4286 alpha_end=1.0
+2,4,rank,7,1,True,feasible=500 trials=966 alpha_end=1.0
+2,5,rank,6,1,True,feasible=500 trials=884 alpha_end=1.0
+2,6,rank,5,1,True,feasible=500 trials=1075 alpha_end=1.0
+2,7,rank,4,1,True,feasible=500 trials=977 alpha_end=1.0
+2,8,rank,3,0,True,no_elim_uniform
+3,1,percent,11,1,True,ok
+3,2,percent,10,1,True,ok
+3,3,percent,9,1,True,ok
+3,4,percent,8,1,True,ok
+3,5,percent,7,2,True,ok
+3,6,percent,5,0,True,ok
+3,7,percent,5,1,True,ok
+3,8,percent,4,1,True,ok
+3,9,percent,3,1,True,ok
+3,10,percent,2,0,True,ok
+4,1,percent,11,0,True,ok
+4,2,percent,11,1,True,ok
+4,3,percent,10,1,True,ok
+4,4,percent,9,1,True,ok
+4,5,percent,8,1,True,ok
+4,6,percent,7,1,True,ok
+4,7,percent,6,1,True,ok
+4,8,percent,5,1,True,ok
+4,9,percent,4,1,True,ok
+4,10,percent,3,0,True,ok
+5,1,percent,12,1,True,ok
+5,2,percent,11,1,True,ok
+5,3,percent,10,1,True,ok
+5,4,percent,9,1,True,ok
+5,5,percent,8,1,True,ok
+5,6,percent,7,1,True,ok
+5,7,percent,6,1,True,ok
+5,8,percent,5,1,True,ok
+5,9,percent,4,1,True,ok
+5,10,percent,3,0,True,ok
+6,1,percent,12,0,True,ok
+6,2,percent,12,2,True,ok
+6,3,percent,10,1,True,ok
+6,4,percent,9,1,True,ok
+6,5,percent,8,1,True,ok
+6,6,percent,7,1,True,ok
+6,7,percent,6,1,True,ok
+6,8,percent,5,1,True,ok
+6,9,percent,4,1,True,ok
+6,10,percent,3,0,True,ok
+7,1,percent,13,2,True,ok
+7,2,percent,11,2,True,ok
+7,3,percent,9,0,True,ok
+7,4,percent,9,1,True,ok
+7,5,percent,8,1,True,ok
+7,6,percent,7,1,True,ok
+7,7,percent,6,1,True,ok
+7,8,percent,5,1,True,ok
+7,9,percent,4,1,True,ok
+7,10,percent,3,0,True,ok
+8,1,percent,13,0,True,ok
+8,2,percent,13,1,True,ok
+8,3,percent,12,1,True,ok
+8,4,percent,11,2,True,ok
+8,5,percent,9,1,True,ok
+8,6,percent,8,1,True,ok
+8,7,percent,7,1,True,ok
+8,8,percent,6,1,True,ok
+8,9,percent,5,1,True,ok
+8,10,percent,4,1,True,ok
+8,11,percent,3,0,True,ok
+9,1,percent,16,2,True,ok
+9,2,percent,14,1,True,ok
+9,3,percent,13,2,True,ok
+9,4,percent,11,1,True,ok
+9,5,percent,10,1,True,ok
+9,6,percent,9,2,True,ok
+9,7,percent,7,2,True,ok
+9,8,percent,5,1,True,ok
+9,9,percent,4,1,True,ok
+9,10,percent,3,0,True,ok
+10,1,percent,11,0,True,ok
+10,2,percent,11,1,True,ok
+10,3,percent,10,1,True,ok
+10,4,percent,9,1,True,ok
+10,5,percent,8,1,True,ok
+10,6,percent,7,1,True,ok
+10,7,percent,6,1,True,ok
+10,8,percent,5,1,True,ok
+10,9,percent,4,1,True,ok
+10,10,percent,3,0,True,ok
+11,1,percent,12,1,True,ok
+11,2,percent,11,1,True,ok
+11,3,percent,10,1,True,ok
+11,4,percent,9,1,True,ok
+11,5,percent,8,1,True,ok
+11,6,percent,7,1,True,ok
+11,7,percent,6,1,True,ok
+11,8,percent,5,1,True,ok
+11,9,percent,4,1,True,ok
+11,10,percent,3,0,True,ok
+12,1,percent,11,0,True,ok
+12,2,percent,11,1,True,ok
+12,3,percent,10,1,True,ok
+12,4,percent,9,1,True,ok
+12,5,percent,8,1,True,ok
+12,6,percent,7,1,True,ok
+12,7,percent,6,1,True,ok
+12,8,percent,5,1,True,ok
+12,9,percent,4,1,True,ok
+12,10,percent,3,0,True,ok
+13,1,percent,12,1,True,ok
+13,2,percent,11,1,True,ok
+13,3,percent,10,1,True,ok
+13,4,percent,9,1,True,ok
+13,5,percent,8,1,True,ok
+13,6,percent,7,1,True,ok
+13,7,percent,6,1,True,ok
+13,8,percent,5,1,True,ok
+13,9,percent,4,1,True,ok
+13,10,percent,3,0,True,ok
+14,1,percent,12,0,True,ok
+14,2,percent,12,1,True,ok
+14,3,percent,11,1,True,ok
+14,4,percent,10,1,True,ok
+14,5,percent,9,1,True,ok
+14,6,percent,8,1,True,ok
+14,7,percent,7,1,True,ok
+14,8,percent,6,2,True,ok
+14,9,percent,4,1,True,ok
+14,10,percent,3,0,True,ok
+15,1,percent,13,1,True,ok
+15,2,percent,12,1,True,ok
+15,3,percent,11,2,True,ok
+15,4,percent,9,1,True,ok
+15,5,percent,8,0,True,ok
+15,6,percent,8,1,True,ok
+15,7,percent,7,0,True,ok
+15,8,percent,7,2,True,ok
+15,9,percent,5,2,True,ok
+15,10,percent,3,0,True,ok
+16,1,percent,12,0,True,ok
+16,2,percent,12,1,True,ok
+16,3,percent,11,1,True,ok
+16,4,percent,10,1,True,ok
+16,5,percent,9,1,True,ok
+16,6,percent,8,1,True,ok
+16,7,percent,7,1,True,ok
+16,8,percent,6,1,True,ok
+16,9,percent,5,1,True,ok
+16,10,percent,4,0,True,ok
+17,1,percent,12,0,True,ok
+17,2,percent,12,1,True,ok
+17,3,percent,11,1,True,ok
+17,4,percent,10,1,True,ok
+17,5,percent,9,1,True,ok
+17,6,percent,8,0,True,ok
+17,7,percent,8,1,True,ok
+17,8,percent,7,1,True,ok
+17,9,percent,6,1,True,ok
+17,10,percent,5,1,True,ok
+17,11,percent,4,0,True,ok
+18,1,percent,12,1,True,ok
+18,2,percent,11,2,True,ok
+18,3,percent,9,0,True,ok
+18,4,percent,9,0,True,ok
+18,5,percent,9,1,True,ok
+18,6,percent,8,1,True,ok
+18,7,percent,7,1,True,ok
+18,8,percent,6,1,True,ok
+18,9,percent,5,1,True,ok
+18,10,percent,4,0,True,ok
+19,1,percent,13,1,True,ok
+19,2,percent,12,1,True,ok
+19,3,percent,11,1,True,ok
+19,4,percent,10,1,True,ok
+19,5,percent,9,0,True,ok
+19,6,percent,9,1,True,ok
+19,7,percent,8,1,True,ok
+19,8,percent,7,1,True,ok
+19,9,percent,6,1,True,ok
+19,10,percent,5,1,True,ok
+19,11,percent,4,0,True,ok
+20,1,percent,12,0,True,ok
+20,2,percent,12,1,True,ok
+20,3,percent,11,1,True,ok
+20,4,percent,10,1,True,ok
+20,5,percent,9,1,True,ok
+20,6,percent,8,1,True,ok
+20,7,percent,7,1,True,ok
+20,8,percent,6,2,True,ok
+20,9,percent,4,1,True,ok
+20,10,percent,3,0,True,ok
+21,1,percent,13,0,True,ok
+21,2,percent,13,3,True,ok
+21,3,percent,10,0,True,ok
+21,4,percent,10,1,True,ok
+21,5,percent,9,0,True,ok
+21,6,percent,9,1,True,ok
+21,7,percent,8,1,True,ok
+21,8,percent,7,1,True,ok
+21,9,percent,6,2,True,ok
+21,10,percent,4,0,True,ok
+21,11,percent,4,0,True,ok
+22,1,percent,12,0,True,ok
+22,2,percent,12,1,True,ok
+22,3,percent,11,1,True,ok
+22,4,percent,10,1,True,ok
+22,5,percent,9,0,True,ok
+22,6,percent,9,1,True,ok
+22,7,percent,8,2,True,ok
+22,8,percent,6,1,True,ok
+22,9,percent,5,2,True,ok
+22,10,percent,3,0,True,ok
+23,1,percent,13,0,True,ok
+23,2,percent,13,1,True,ok
+23,3,percent,12,1,True,ok
+23,4,percent,11,2,True,ok
+23,5,percent,9,0,True,ok
+23,6,percent,9,1,True,ok
+23,7,percent,8,1,True,ok
+23,8,percent,7,1,True,ok
+23,9,percent,6,1,True,ok
+23,10,percent,5,1,True,ok
+23,11,percent,4,0,True,ok
+24,1,percent,12,0,True,ok
+24,2,percent,12,1,True,ok
+24,3,percent,11,1,True,ok
+24,4,percent,10,1,True,ok
+24,5,percent,9,1,True,ok
+24,6,percent,8,1,True,ok
+24,7,percent,7,2,True,ok
+24,8,percent,5,1,True,ok
+24,9,percent,4,1,True,ok
+24,10,percent,3,0,True,ok
+25,1,percent,13,0,True,ok
+25,2,percent,13,2,True,ok
+25,3,percent,11,0,True,ok
+25,4,percent,11,1,True,ok
+25,5,percent,10,1,True,ok
+25,6,percent,9,1,True,ok
+25,7,percent,8,2,True,ok
+25,8,percent,6,1,True,ok
+25,9,percent,5,1,True,ok
+25,10,percent,4,0,True,ok
+26,1,percent,10,2,True,ok
+26,2,percent,8,2,True,ok
+26,3,percent,6,3,True,ok
+26,4,percent,3,0,True,ok
+27,1,percent,13,1,True,ok
+27,2,percent,12,1,True,ok
+27,3,percent,11,1,True,ok
+27,4,percent,10,1,True,ok
+27,5,percent,9,0,True,ok
+27,6,percent,9,1,True,ok
+27,7,percent,8,2,True,ok
+27,8,percent,6,2,True,ok
+27,9,percent,4,0,True,ok
+28,1,rank,12,0,True,no_elim_uniform
+28,2,rank,12,2,True,feasible=500 trials=4908 alpha_end=1.0
+28,3,rank,10,0,True,no_elim_uniform
+28,4,rank,10,1,True,feasible=500 trials=1192 alpha_end=1.0
+28,5,rank,9,0,True,no_elim_uniform
+28,6,rank,9,1,True,feasible=8 trials=280000 alpha_end=0.25
+28,7,rank,8,1,True,feasible=500 trials=2010 alpha_end=1.0
+28,8,rank,7,1,True,feasible=500 trials=2222 alpha_end=1.0
+28,9,rank,6,1,True,feasible=500 trials=908 alpha_end=1.0
+28,10,rank,5,1,True,feasible=500 trials=709 alpha_end=1.0
+28,11,rank,4,0,True,no_elim_uniform
+29,1,rank,15,0,True,no_elim_uniform
+29,2,rank,15,1,True,feasible=500 trials=1553 alpha_end=1.0
+29,3,rank,14,1,True,feasible=500 trials=1237 alpha_end=1.0
+29,4,rank,13,1,True,feasible=500 trials=2305 alpha_end=1.0
+29,5,rank,12,1,True,feasible=500 trials=1447 alpha_end=1.0
+29,6,rank,11,1,True,feasible=500 trials=1518 alpha_end=1.0
+29,7,rank,10,2,True,feasible=500 trials=1868 alpha_end=1.0
+29,8,rank,8,1,True,feasible=500 trials=3668 alpha_end=1.0
+29,9,rank,7,1,True,feasible=500 trials=1250 alpha_end=1.0
+29,10,rank,6,2,True,feasible=500 trials=3579 alpha_end=1.0
+29,11,rank,4,0,True,no_elim_uniform
+30,1,rank,15,0,True,no_elim_uniform
+30,2,rank,15,1,True,feasible=500 trials=1324 alpha_end=1.0
+30,3,rank,14,1,True,feasible=500 trials=35777 alpha_end=0.5
+30,4,rank,13,2,True,feasible=500 trials=2420 alpha_end=1.0
+30,5,rank,11,1,True,feasible=500 trials=245542 alpha_end=0.25
+30,6,rank,10,1,True,feasible=500 trials=1024 alpha_end=1.0
+30,7,rank,9,1,True,feasible=500 trials=881 alpha_end=1.0
+30,8,rank,8,2,True,feasible=500 trials=1851 alpha_end=1.0
+30,9,rank,6,2,True,feasible=500 trials=2964 alpha_end=1.0
+30,10,rank,4,0,True,no_elim_uniform
+31,1,rank,16,1,True,feasible=500 trials=1556 alpha_end=1.0
+31,2,rank,15,1,True,feasible=500 trials=1725 alpha_end=1.0
+31,3,rank,14,1,True,feasible=500 trials=1820 alpha_end=1.0
+31,4,rank,13,1,True,feasible=500 trials=1240 alpha_end=1.0
+31,5,rank,12,2,True,feasible=500 trials=87185 alpha_end=0.25
+31,6,rank,10,1,True,feasible=500 trials=1181 alpha_end=1.0
+31,7,rank,9,1,True,feasible=500 trials=1378 alpha_end=1.0
+31,8,rank,8,2,True,feasible=500 trials=1243 alpha_end=1.0
+31,9,rank,6,2,True,feasible=500 trials=852 alpha_end=1.0
+31,10,rank,4,0,True,no_elim_uniform
+32,1,rank,14,1,True,feasible=500 trials=2033 alpha_end=1.0
+32,2,rank,13,1,True,feasible=500 trials=3891 alpha_end=1.0
+32,3,rank,12,1,True,feasible=500 trials=1233 alpha_end=1.0
+32,4,rank,11,1,True,feasible=500 trials=10552 alpha_end=1.0
+32,5,rank,10,1,True,feasible=500 trials=1933 alpha_end=1.0
+32,6,rank,9,1,True,feasible=500 trials=3769 alpha_end=1.0
+32,7,rank,8,1,True,feasible=500 trials=26444 alpha_end=0.5
+32,8,rank,7,1,True,feasible=500 trials=2086 alpha_end=1.0
+32,9,rank,6,1,True,feasible=500 trials=896 alpha_end=1.0
+32,10,rank,5,0,True,no_elim_uniform
+32,11,rank,5,0,True,no_elim_uniform
+33,1,rank,13,0,True,no_elim_uniform
+33,2,rank,13,2,True,feasible=500 trials=6332 alpha_end=1.0
+33,3,rank,11,2,True,feasible=500 trials=1872 alpha_end=1.0
+33,4,rank,9,1,True,feasible=500 trials=6565 alpha_end=1.0
+33,5,rank,8,1,True,feasible=500 trials=1635 alpha_end=1.0
+33,6,rank,7,1,True,feasible=500 trials=9451 alpha_end=1.0
+33,7,rank,6,1,True,feasible=500 trials=878 alpha_end=1.0
+33,8,rank,5,0,True,no_elim_uniform
+33,9,rank,5,0,True,no_elim_uniform
+34,1,rank,14,0,True,no_elim_uniform
+34,2,rank,14,2,True,feasible=500 trials=3636 alpha_end=1.0
+34,3,rank,12,1,True,feasible=500 trials=1583 alpha_end=1.0
+34,4,rank,11,1,True,feasible=500 trials=25726 alpha_end=0.5
+34,5,rank,10,0,True,no_elim_uniform
+34,6,rank,10,1,True,feasible=500 trials=1381 alpha_end=1.0
+34,7,rank,9,1,True,feasible=500 trials=2042 alpha_end=1.0
+34,8,rank,8,1,True,feasible=500 trials=1313 alpha_end=1.0
+34,9,rank,7,1,True,feasible=500 trials=960 alpha_end=1.0
+34,10,rank,6,1,True,feasible=500 trials=14732 alpha_end=1.0
+34,11,rank,5,0,True,no_elim_uniform
