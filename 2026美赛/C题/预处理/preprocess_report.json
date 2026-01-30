@@ -1,0 +1,68 @@
+{
+  "raw_shape": [
+    421,
+    53
+  ],
+  "panel_shape_all_weeks": [
+    4199,
+    16
+  ],
+  "panel_shape_active_only": [
+    2777,
+    16
+  ],
+  "score_columns_count": 44,
+  "missing_rate_scores_top10": {
+    "week11_judge4_score": 0.9382422802850356,
+    "week1_judge4_score": 0.8076009501187649,
+    "week2_judge4_score": 0.7838479809976246,
+    "week10_judge4_score": 0.7790973871733967,
+    "week8_judge4_score": 0.7434679334916865,
+    "week11_judge1_score": 0.7173396674584323,
+    "week11_judge2_score": 0.7173396674584323,
+    "week11_judge3_score": 0.7173396674584323,
+    "week5_judge4_score": 0.7173396674584323,
+    "week3_judge4_score": 0.6959619952494062
+  },
+  "season_max_week": {
+    "1": 6,
+    "2": 8,
+    "3": 10,
+    "4": 10,
+    "5": 10,
+    "6": 10,
+    "7": 10,
+    "8": 11,
+    "9": 10,
+    "10": 10,
+    "11": 10,
+    "12": 10,
+    "13": 10,
+    "14": 10,
+    "15": 10,
+    "16": 10,
+    "17": 11,
+    "18": 10,
+    "19": 11,
+    "20": 10,
+    "21": 11,
+    "22": 10,
+    "23": 11,
+    "24": 10,
+    "25": 10,
+    "26": 4,
+    "27": 9,
+    "28": 11,
+    "29": 11,
+    "30": 10,
+    "31": 10,
+    "32": 11,
+    "33": 9,
+    "34": 11
+  },
+  "notes": {
+    "NA_semantics": "N/A treated as structural missingness (not applicable). Not imputed.",
+    "Zero_semantics": "0 indicates eliminated-after placeholder; excluded via active mask.",
+    "Rank_percent": "Computed within (season,week) among active contestants only."
+  }
+}

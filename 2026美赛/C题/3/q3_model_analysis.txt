@@ -1,0 +1,19 @@
+Problem 3 Structural Analysis Report
+========================================
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:            is_survived   No. Observations:                 2777
+Model:                          Logit   Df Residuals:                     2773
+Method:                           MLE   Df Model:                            3
+Date:                Fri, 30 Jan 2026   Pseudo R-squ.:                0.001944
+Time:                        16:19:27   Log-Likelihood:                -955.24
+converged:                       True   LL-Null:                       -957.10
+Covariance Type:            nonrobust   LLR p-value:                    0.2932
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+const              1.7943      0.205      8.745      0.000       1.392       2.196
+judge_percent      1.7568      1.473      1.193      0.233      -1.130       4.643
+is_modern_rule     0.2062      0.302      0.683      0.495      -0.386       0.798
+interaction       -0.2182      2.386     -0.091      0.927      -4.894       4.458
+==================================================================================
